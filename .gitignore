@@ -1,0 +1,5 @@
+data/
+models/
+.DS_Store
+/training/.DS_Store
+/tokenizers/.DS_Store
